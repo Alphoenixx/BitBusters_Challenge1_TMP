@@ -44,4 +44,4 @@ retail_data.csv (The raw dataset used for the challenge. Its uploaded in zip fil
 
 manhattan_analysis.ipynb (The main Jupyter Notebook with all our code and analysis)
 
-manhattan_presentation.pptx and manhattan_presentation.pdf (A summary of our findings and recommendations)
+manhattan_presentation.pdf (A summary of our findings and recommendations)
